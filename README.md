@@ -15,3 +15,6 @@ The application utilizes the GitHub API to fetch user data based on the username
 
 # Initialization: 
 When the webpage loads, it initializes the UI and checks localStorage to determine the initial mode (dark or light). Additionally, it fetches and displays the GitHub profile of a default user ("jagmohan123") as an initial example. This project provides a simple and visually appealing way for users to search for and view GitHub profiles while offering a choice between light and dark modes for a personalized browsing experience.
+
+# Live Link
+https://jagmohan123.github.io/Github-Profile-Search/
